@@ -1,0 +1,32 @@
+.intro {
+    text-align: center;
+    color: lightblue;
+    margin-top: 80px;
+}
+
+.link button {
+    border-radius: 20px;
+    border: 0;
+    background-color: whitesmoke;
+}
+
+.link a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.link h1 {
+    text-align: center;
+}
+
+.link {
+    text-align: center;
+}
+
+.link button :hover {
+    background-color: black;
+}
+
+body {
+    background-color: beige
+}
